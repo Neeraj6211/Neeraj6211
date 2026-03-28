@@ -2,7 +2,7 @@
 <!-- You can edit this image in paint and host the image on https://sm.ms/ -->
 
 <h1 align="center">Hey there! I'm Neeraj Kumar 👋</h1>
-<h3 align="center">🚀 Software Developer | MERN Stack | Data Analyst ♥ | Devops | Competitive Programmer 🚀</h3>
+<h3 align="center">🚀 SWE-I @ Candescent (Formerly NCR Corporation) | JAVA Full Stack | Devops | Competitive Programmer 🚀</h3>
 
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://res.cloudinary.com/djo0mmfll/image/upload/v1686268899/gfgfcfg_eb84wp.gif" />
@@ -11,7 +11,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=neeraj6211&icon=2&color=12)](https://visitcount.itsvg.in)
 # 💫 About Me:
-🔭 I’m currently working on AI Powered - MERN Stack projects.<br>🌱 Constantly learning and improving, currently diving into Full Stack(Javascript) and AWS.<br>🤝 I’m looking for help with exploring new technologies and improving my coding skills.<br>👯 I’m looking to collaborate on software solutions and innovative projects.<br>💬 Ask me about my experience in Full Stack (Javascript),Power BI and DSA ♥ .<br>📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/neeraj-kumar-091415237/) 
+🔭 SWE-I @ Candescent (Formerly NCR Corporation).<br>🌱Most developers aim for "it works." I aim for "it won't break when the world arrives." .<br>📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/neeraj-kumar-091415237/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:neeraj1511kr@gmail.com)
 <br>⚡ Fun fact I like WIndows 7.
 
